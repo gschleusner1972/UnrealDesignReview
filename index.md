@@ -1,3 +1,7 @@
+---
+typora-root-url: media
+---
+
 ## Unreal Design Review for AEC
 
 ### Why?
@@ -22,10 +26,8 @@ In resent years Unreal engine and the tooling to support better AEC workflows ha
 
 #### Collaboration
 
+![](/Sectioning.png)
 
 
-
-
-#### ![Sectioning](../assets/Sectioning.png)
 
 
