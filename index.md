@@ -2,7 +2,7 @@
 typora-root-url: ./
 ---
 
-## Unreal Design Review for AEC
+## Unreal Design Review for AEC (WIP)
 
 ### Why?
 
@@ -13,10 +13,6 @@ There are tools made for clash detection, separate tools for exploring materials
 ### Enter Unreal
 
 In resent years Unreal engine and the tooling to support better AEC workflows have advanced to the point where its now possible to start to build such a tool. 
-
-[Datasmith]: https://www.unrealengine.com/en-US/datasmith?sessionInvalidated=true
-
-
 
 #### Dataprep
 
