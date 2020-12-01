@@ -1,37 +1,31 @@
-## Unreal Design Review
+## Unreal Design Review for AEC
 
-You can use the [editor on GitHub](https://github.com/gschleusner1972/UnrealDesignReview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Why?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The design process in AEC has been generating 3D models for many years.  These models come from BIM tools like Revit, ArchiCAD or BricsCAD BIM or modelers like Sketchup or Rhino.    Its always been a challenge to easily merge these models in a way enables designers to compare options, review materials, generate analysis or do simple things like early clash detection.  
 
-### Markdown
+There are tools made for clash detection, separate tools for exploring materials, still others for generating  analysis.   These tools go largely unused in the design process because no platform has made it easy to export data, assemble models and at the same time bring together disparate tools to view, review, clash, analyze etc.   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Enter Unreal
 
-```markdown
-Syntax highlighted code block
+In resent years Unreal engine and the tooling to support better AEC workflows have advanced to the point where its now possible to start to build such a tool. 
 
-# Header 1
-## Header 2
-### Header 3
+[Datasmith]: https://www.unrealengine.com/en-US/datasmith?sessionInvalidated=true
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### Dataprep
 
-[Link](url) and ![Image](src)
-```
+#### Point Cloud Support
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Pixel Streaming
 
-### Jekyll Themes
+#### Collaboration
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gschleusner1972/UnrealDesignReview/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+#### 
+
+
