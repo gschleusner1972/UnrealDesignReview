@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Unreal Design Review
 
 You can use the [editor on GitHub](https://github.com/gschleusner1972/UnrealDesignReview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
