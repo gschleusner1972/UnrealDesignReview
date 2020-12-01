@@ -26,6 +26,6 @@ In resent years Unreal engine and the tooling to support better AEC workflows ha
 
 
 
-#### 
+#### ![Sectioning](../assets/Sectioning.png)
 
 
