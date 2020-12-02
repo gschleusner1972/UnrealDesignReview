@@ -32,11 +32,7 @@ With the other features around Datasmith in active development that will make it
 
 #### Collaboration
 
-
-
-
-
-<img src="/SectionGif.gif" alt="SectionGif" style="zoom:65%;" />
+<img src="/SectionGif.gif" alt="SectionGif" style="zoom:67%;" />
 
 
 
